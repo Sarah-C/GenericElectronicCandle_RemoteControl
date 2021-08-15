@@ -1,4 +1,4 @@
-# GenericElectronicCandle_RemoteControl
+# Generic electronic candle: remote control commands.
 Remote control commands for generic electronic candles.
 
 ![image](https://user-images.githubusercontent.com/1586332/129471982-bb24887c-9a95-4a70-8992-64e444fd4dc7.png)
