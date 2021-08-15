@@ -1,5 +1,9 @@
 # GenericElectronicCandle_RemoteControl
 Remote control commands for generic electronic candles.
+
+![image](https://user-images.githubusercontent.com/1586332/129471962-f5ed2b04-d05e-4c7d-a462-8261984cdd97.png)
+
+
 /*
 
 IRremoteESP8266: IRrecvDumpV3 - dump details of IR codes with IRrecv
