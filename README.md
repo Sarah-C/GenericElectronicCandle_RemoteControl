@@ -12,7 +12,7 @@ Copyright 2017-2019 David Conran
 */
 
 Actual timings from the transmitter:           
-![image](https://user-images.githubusercontent.com/1586332/129471730-688c3c1e-6238-4471-b1fa-26751c9d86d3.png)
+![image](https://user-images.githubusercontent.com/1586332/129472041-49f7fc6d-6fd2-4dbd-bbb4-3fa45141fe3e.png)
 https://codepen.io/SarahC/pen/VwbNMwR?editors=0010        
 
 
