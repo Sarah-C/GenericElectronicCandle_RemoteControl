@@ -1,8 +1,7 @@
 # GenericElectronicCandle_RemoteControl
 Remote control commands for generic electronic candles.
 
-![image](https://user-images.githubusercontent.com/1586332/129471962-f5ed2b04-d05e-4c7d-a462-8261984cdd97.png)
-
+![image](https://user-images.githubusercontent.com/1586332/129471982-bb24887c-9a95-4a70-8992-64e444fd4dc7.png)
 
 /*
 
