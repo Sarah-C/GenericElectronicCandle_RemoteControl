@@ -5,18 +5,18 @@ Remote control commands for generic electronic candles.
 
 /*
 
-IRremoteESP8266: IRrecvDumpV3 - dump details of IR codes with IRrecv
-An IR detector/demodulator must be connected to the input kRecvPin.
-Copyright 2009 Ken Shirriff, http://arcfn.com
-Copyright 2017-2019 David Conran
+IRremoteESP8266: IRrecvDumpV3 - dump details of IR codes with IRrecv       
+An IR detector/demodulator must be connected to the input kRecvPin.        
+Copyright 2009 Ken Shirriff, http://arcfn.com       
+Copyright 2017-2019 David Conran         
 */
 
-Actual timings from the transmitter:
+Actual timings from the transmitter:           
 ![image](https://user-images.githubusercontent.com/1586332/129471730-688c3c1e-6238-4471-b1fa-26751c9d86d3.png)
-https://codepen.io/SarahC/pen/VwbNMwR?editors=0010
+https://codepen.io/SarahC/pen/VwbNMwR?editors=0010        
 
 
-Generic electronic candles - remote control.
+Generic electronic candles - remote control.          
 
 IRrecvDump is now running and waiting for IR input on Pin 36      
 Library : v2.7.19      
